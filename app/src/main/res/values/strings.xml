@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Tasks</string>
+
+    <string name="nav_header_version">1.1.1</string>
+
+    <string name="password_form_header">Ваш логин/пароль...</string>
+    <string name="login">логин</string>
+    <string name="password">пароль</string>
+    <string name="butt_OK">OK</string>
+    <string name="butt_Yes">Да</string>
+    <string name="butt_Not">Нет</string>
+    <string name="success">Все ОК</string>
+    <string name="error">Доступ запрещен!</string>
+    <string name="textNoInternet">Что-то с интернет доступом!</string>
+    <string name="unknownError">Неизвестная ошибка!</string>
+    <string name="errorConnection">"Ошибка: "</string>
+    <string name="error_login">Не заполнен логин</string>
+    <string name="error_password">Не заполнен пароль</string>
+    <string name="error_not_completed">Не заполнено</string>
+    <string name="passwordIncorrect">"Доброе время суток! "</string>
+    <string name="passwordNotIncorrect">Неверно введен пароль!</string>
+    <string name="search">Поиск</string>
+    <string name="clear_search">Очистить поиск</string>
+    <string name="textBarcode">Штрих код:</string>
+    <string name="update_new_version">Доступно обновление приложения Tasks до версии %s - желаете обновиться?
+        Если вы согласны - вы будете перенаправлены к скачиванию APK файла, который затем нужно будет открыть.</string>
+    <string name="cancel">Отмена</string>
+    <string name="Server">Сервер</string>
+    <string name="scaner">Сканер</string>
+    <string name="lost_for_internet">потеряно интернет-соединение...</string>
+    <string name="connection_for_internet">интернет-соединение восстановлено</string>
+    <string name="settings">Настройки</string>
+    <string name="scan_order">Отсканируйте Заказ-наряд</string>
+    <string name="camera_to_the_barcode">Наведите камеру на штрихкод</string>
+    <string name="turn_off_flashlight">Выключить фонарик</string>
+    <string name="turn_on_flashlight">Включить фонарик</string>
+    <string name="wait_update">Получение данных</string>
+    <string name="start_polling">Запустить проверку изменения статусов</string>
+    <string name="stop_polling">Остановить проверку изменения статусов</string>
+
+    <string name="message_title">Есть изменения по статусам!</string>
+    <string name="verification_period">Период проверки (мин)</string>
+    <string name="saveCB">Записать</string>
+    <string name="wait_sending">Отправка данных</string>
+
+</resources>
