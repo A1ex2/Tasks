@@ -38,6 +38,10 @@
             android:name=".PollService"
             android:exported="false" />
 
+        <service
+            android:name=".DownLoadManagerIntentService"
+            android:exported="false" />
+
         <activity android:name=".DetailsOrder" />
         <activity android:name=".MainActivity" />
         <activity android:name=".ApiSettings" />
